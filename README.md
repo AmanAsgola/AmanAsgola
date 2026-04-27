@@ -50,5 +50,5 @@ Currently pursuing an M.Sc. in Artificial Intelligence at Brandenburg University
 
 ### 🏗️ Currently Building
 
-* **Transformer-Based Linguistic Classifier** — Testing predictive architectures to analyze unstructured communications and building programmatic gates to parse external inputs.
-* **Delivery Order Price Calculator API** — Programming pricing logic for sub-millisecond response times and embedding nested rules to guarantee accuracy.
+* **Movie Recomendation System** — implements a Content-Based Filtering engine that mimics the high-performance retrieval patterns used by industry leaders like Netflix.
+
