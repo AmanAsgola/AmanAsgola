@@ -50,5 +50,7 @@ Currently pursuing an M.Sc. in Artificial Intelligence at Brandenburg University
 
 ### 🏗️ Currently Building
 
-* **Movie Recomendation System** — implements a Content-Based Filtering engine that mimics the high-performance retrieval patterns used by industry leaders like Netflix.
+* **Shuffit-DFER** — A lightweight dual-stream CNN + Vision Transformer architecture for real-time
+driver facial expression recognition, extended with Temporal GRU and 1D-Conv
+modules to capture short-term facial dynamics across video frame sequences.
 
