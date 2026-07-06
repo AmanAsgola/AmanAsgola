@@ -38,6 +38,7 @@ Currently pursuing an M.Sc. in Artificial Intelligence at Brandenburg University
 <img src="https://img.shields.io/badge/Generative_AI-000000?style=flat" alt="Generative AI" />
 <img src="https://img.shields.io/badge/RAG-2088FF?style=flat" alt="RAG" />
 <img src="https://img.shields.io/badge/Forecasting-005571?style=flat" alt="Forecasting" />
+<img src="https://img.shields.io/badge/Computer_Vision-4B8BBE?style=flat" alt="ROS" />
 
 **Infrastructure**<br>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
