@@ -34,7 +34,7 @@ focus_areas:
 languages_spoken:
   - English (C1 — Advanced Professional)
   - German (B2.1 — Working Proficiency)
-fun_fact: "I process 1TB+ daily data pipelines without breaking a sweat ☕"
+fun_fact: "I process 1TB+ daily data pipelines without breaking a sweat"
 ```
 
 ---
@@ -174,8 +174,7 @@ fun_fact: "I process 1TB+ daily data pipelines without breaking a sweat ☕"
 
 ---
 
-### 📊&nbsp; GitHub Stats
-
+Redesign profile README with polished layout, badges, stats and projects
 <p align="center">
   <a href="https://github.com/AmanAsgola">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanAsgola&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&cache_seconds=86400" />
