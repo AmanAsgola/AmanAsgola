@@ -177,33 +177,29 @@ fun_fact: "I process 1TB+ daily data pipelines without breaking a sweat ☕"
 ### 📊&nbsp; GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanAsgola&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AmanAsgola&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" />
+  <a href="https://github.com/AmanAsgola">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanAsgola&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/AmanAsgola">
+    <img width="49%" src="https://streak-stats.demolab.com?user=AmanAsgola&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanAsgola&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <a href="https://github.com/AmanAsgola">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanAsgola&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
+  </a>
 </p>
 
 ---
 
-### 🏆&nbsp; GitHub Trophies
+### 📈&nbsp; Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanAsgola&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <a href="https://github.com/AmanAsgola">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanAsgola&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+  </a>
 </p>
-
----
-
-### 🐍&nbsp; Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanAsgola/AmanAsgola/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanAsgola/AmanAsgola/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmanAsgola/AmanAsgola/output/github-snake.svg" />
-</picture>
-
-> **Note:** The snake animation requires a GitHub Action. [Set it up here →](https://github.com/Platane/snk)
 
 ---
 
